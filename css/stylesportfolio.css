@@ -96,7 +96,7 @@ img {
   color: var(--highlight-text-color);
 }
 
-/* .menu-link::after {
+.menu-link::after {
   content: '';
 width: 78px;
 height: 4px;
@@ -104,7 +104,7 @@ left: 551px;
 top: 76px;
 background: var(--highlight-text-color);
 border-radius: 2px;
-} */
+}
 
 .head-contact {
   display: flex;
@@ -235,7 +235,7 @@ border-radius: 2px;
   border-right: 1px solid #eeeeee;
   border-bottom: 1px solid #eeeeee;
   padding: 20px 24px;
-}
+  }
 
 .portfolio-img-link {
   position: relative;
